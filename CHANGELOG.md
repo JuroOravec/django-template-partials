@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 25.2
+
+* Fix compatibility with Django 4.2
+
 ## 25.1 (2025-08-06)
 
 * Improved fetching partial source for debug views.
